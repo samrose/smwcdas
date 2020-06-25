@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Jacenty359",
+			"Devwebtel",
+			"InternerowyGołąb",
+			"DeRudySoulStorm",
+			"GlutPaprykarz",
+			"Railfail536",
+			"Rail"
+		]
+	},
+	"sesp-desc": "Dodaje kilka dodatkowych specjalnych właściwości do wszystkich stron",
+	"sesp-property-unknown-label": "Nieznana etykieta lub alias",
+	"sesp-property-author": "Autor strony",
+	"sesp-property-first-author": "Twórca strony",
+	"sesp-property-revision-id": "ID wersji",
+	"sesp-property-page-id": "ID strony",
+	"sesp-property-page-len": "Długość strony",
+	"sesp-property-page-len-desc": "„$1” identyfikuje długość strony w bajtach i jest dostarczana przez rozszerzenie [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties].",
+	"sesp-property-view-count": "Liczba wyświetleń strony",
+	"sesp-property-subpages": "Podstrona",
+	"sesp-property-revisions": "Liczba wersji",
+	"sesp-property-talk-revisions": "Liczba edycji strony dyskusji",
+	"sesp-property-mimetype": "Typ MIME",
+	"sesp-property-mediatype": "Typ medium",
+	"sesp-property-shorturl": "Krótki URL",
+	"sesp-property-approved-rev": "Zatwierdzona wersja",
+	"sesp-property-approved-by": "Zatwierdzono przez",
+	"sesp-property-approved-date": "Zatwierdzona data",
+	"sesp-property-approved-status": "Status akceptacji",
+	"sesp-property-user-registration-date": "Data rejestracji użytkownika",
+	"sesp-property-user-edit-count": "Licznik edycji użytkownika",
+	"sesp-property-user-block": "Blokada użytkownika",
+	"sesp-property-user-right": "Prawa użytkowanika",
+	"sesp-property-user-group": "Grupa użytkowników",
+	"sesp-property-exif-data": "Dane EXIF",
+	"sesp-exif-languagecode": "Exif:Kod języka",
+	"sesp-exif-label": "Exif:Etykieta",
+	"sesp-exif-iimcategory": "Exif:Kategoria IIM",
+	"sesp-admin-deprecation-notice-title-replacement": "Zastąpione lub zmienione ustawienia"
+}

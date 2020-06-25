@@ -1,0 +1,25 @@
+{
+	"name": "Mermaid",
+	"version": "2.2.0",
+	"author": [
+        	"James Hong Kong"
+	],
+	"url": "https://github.com/SemanticMediaWiki/Mermaid/",
+	"descriptionmsg": "mermaid-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.33"
+	},
+	"MessagesDirs": {
+		"Mermaid": [
+			"i18n"
+		]
+	},
+	"callback": "Mermaid::initExtension",
+	"ExtensionFunctions": [
+		"Mermaid::onExtensionFunction"
+	],
+	"load_composer_autoloader": true,
+	"manifest_version": 1
+}

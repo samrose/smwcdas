@@ -1,0 +1,49 @@
+{
+	"name": "data-values/interfaces",
+	"type": "library",
+	"description": "Defines interfaces for ValueParsers, ValueFormatters and ValueValidators",
+	"keywords": [
+		"datavalues",
+		"valueparsers",
+		"valueformatters",
+		"valuevalidators",
+		"wikidata"
+	],
+	"homepage": "https://github.com/DataValues/Interfaces",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Jeroen De Dauw",
+			"email": "jeroendedauw@gmail.com",
+			"homepage": "http://jeroendedauw.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.5.9"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.8",
+		"wikibase/wikibase-codesniffer": "^0.1.0"
+	},
+	"autoload": {
+		"files" : [
+			"Interfaces.php"
+		],
+		"psr-4": {
+			"ValueFormatters\\": "src/ValueFormatters/",
+			"ValueParsers\\": "src/ValueParsers/",
+			"ValueValidators\\": "src/ValueValidators/"
+		},
+		"classmap": [
+			"tests/ValueFormatters/ValueFormatterTestBase.php"
+		]
+	},
+	"scripts": {
+		"test": [
+			"@validate --no-interaction",
+			"phpcs -p -s",
+			"phpunit"
+		]
+	}
+}

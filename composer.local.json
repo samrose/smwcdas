@@ -1,0 +1,12 @@
+{
+	"require": {
+		"mediawiki/semantic-compound-queries": "^2.1",
+		"mediawiki/semantic-extra-special-properties": "^2.0",
+		"mediawiki/semantic-media-wiki": "^3.1",
+		"mediawiki/semantic-result-formats": "^3.1"
+	},
+	"config": {
+		"preferred-install": "source",
+		"optimize-autoloader": true
+	}
+}
