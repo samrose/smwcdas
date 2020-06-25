@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"SPQRobin",
+			"Siebrand",
+			"Esketti",
+			"Mainframe98",
+			"Patio",
+			"Ooswesthoesbes",
+			"KlaasZ4usV"
+		]
+	},
+	"sesp-desc": "Voegt extra bijzondere eigenschappen toe aan alle pagina's",
+	"sesp-property-unknown-label": "Onbekend label of alias",
+	"sesp-property-author": "Pagina-auteur",
+	"sesp-property-first-author": "Paginamaker",
+	"sesp-property-revision-id": "Versienummer",
+	"sesp-property-page-id": "Pagina-ID",
+	"sesp-property-page-len": "Paginalengte",
+	"sesp-property-view-count": "Aantal keren bekeken",
+	"sesp-property-subpages": "Subpagina",
+	"sesp-property-revisions": "Aantal versies",
+	"sesp-property-talk-revisions": "Aantal versies overlegpagina",
+	"sesp-property-mimetype": "MIME-type",
+	"sesp-property-mediatype": "Mediatype",
+	"sesp-property-shorturl": "Korte URL",
+	"sesp-property-approved-rev": "Goedgekeurde versie",
+	"sesp-property-approved-by": "Goedgekeurd door",
+	"sesp-property-approved-date": "Datum goedkeuring",
+	"sesp-property-user-registration-date": "Gebruikersregistratiedatum",
+	"sesp-property-user-edit-count": "Aantal bewerkingen van de gebruiker",
+	"sesp-property-user-block": "Gebruikersblok",
+	"sesp-property-user-block-desc": "\"$1\" levert een gebruiker een door de [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties SESP-extensie] verzorgde bloklijst.",
+	"sesp-property-user-right": "Gebruiksrecht",
+	"sesp-property-user-right-desc": "\"$1\" levert de gebruiker een door de [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties SESP-extensie] verzorgde rechtenlijst.",
+	"sesp-property-user-group": "Gebruikersgroep",
+	"sesp-property-user-group-desc": "\"$1\" levert een door de [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties SESP-extensie] verzorgde voor de gebruiker relevante groepenlijst.",
+	"sesp-property-exif-data": "Exifgegevens"
+}
